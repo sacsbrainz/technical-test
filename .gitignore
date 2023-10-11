@@ -1,0 +1,29 @@
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
+# sql
+*.sql
+
+#node modules
+node_modules
+
+# logs
+logs
+
+# env
+.env
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
